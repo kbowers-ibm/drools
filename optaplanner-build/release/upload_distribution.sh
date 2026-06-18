@@ -73,7 +73,7 @@ fi
 
 readonly optaplanner_project_root=$this_script_directory/../..
 readonly optaplanner_docs_build_dir="$optaplanner_project_root/optaplanner-docs/target"
-readonly optaplanner_javadoc_build_dir="$optaplanner_project_root/build/optaplanner-javadoc/target"
+readonly optaplanner_javadoc_build_dir="$optaplanner_project_root/optaplanner-build/optaplanner-javadoc/target"
 
 assert_directory_exists "$optaplanner_docs_build_dir"
 assert_directory_exists "$optaplanner_javadoc_build_dir"

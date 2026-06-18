@@ -102,7 +102,7 @@ Your code is automatically formatted according to the _Import and Code Style_ co
 ----
 mvn clean install
 ----
-For information about how to set up code style checks, see https://github.com/kiegroup/optaplanner/blob/main/build/optaplanner-ide-config/ide-configuration.adoc[IDE Setup Instructions].
+For information about how to set up code style checks, see https://github.com/kiegroup/optaplanner/blob/main/optaplanner-build/optaplanner-ide-config/ide-configuration.adoc[IDE Setup Instructions].
 
 === Building your OptaPlanner project
 
